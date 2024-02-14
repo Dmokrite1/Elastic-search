@@ -1,0 +1,79 @@
+{
+  "mappings": {
+    "dynamic": "strict",
+    "properties": {
+      "code" : {
+        "type": "keyword"
+      },
+      "first_name": {
+        "type": "text"
+      },
+      "last_name": {
+        "type": "text"
+      },
+      "diploma": {
+        "type": "text",
+        "analyzer": "french"
+      },
+      "diploma_nl": {
+        "type": "text",
+        "analyzer": "dutch"
+      },
+      "profession": {
+        "type": "text",
+        "analyzer": "french"
+      },
+      "profession_nl": {
+        "type": "text",
+        "analyzer": "dutch"
+      },
+      "email": {
+        "type": "keyword"
+      },
+      "website": {
+        "type": "keyword"
+      },
+      "phone": {
+        "type": "keyword"
+      },
+      "cellphone": {
+        "type": "keyword"
+      },
+      "lang": {
+        "type": "keyword"
+      },
+      "address": {
+        "properties": {
+          "street": {
+            "type": "keyword"
+          },
+          "town": {
+            "type": "keyword"
+          },
+          "zip": {
+            "type": "keyword"
+          },
+          "number": {
+            "type": "keyword"
+          }
+        }
+      },
+      "specialties": {
+        "type": "nested",
+        "properties": {
+          "code": {
+            "type": "keyword"
+          },
+          "label": {
+            "type": "text",
+            "analyzer": "french"
+          },
+          "label_nl": {
+            "type": "text",
+            "analyzer": "dutch"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# vérifie si le Typescript compile
+pnpm tsc --noEmit
+# --noEmit => va juste vérifier que le Typescript est correct
+
+# vérifie si on a pas fait de la merde
+pnpm lint
+

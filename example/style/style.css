@@ -1,0 +1,143 @@
+header {
+    background-color: #002868 ;
+    height: 150px;
+}
+
+body {
+    background-color: white;
+    height: 500px;
+}
+
+.button-header {
+    background: #002868;
+    height: 42px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    box-sizing: inherit;
+    border: 0;
+    max-width: 1700px;
+}
+
+.language-btn {
+    border: 1px solid #fff;
+    margin-left: 15px;
+    margin-top: 10px;
+    background-color: #09367b;
+    color: #fff;
+    border-radius: 5px;
+    height: 25px;
+    width: 35px;
+}
+
+.language-btn.active{
+    background: #7bb6b2;
+}
+
+.language-btn:hover {
+    color: aqua;
+}
+
+.logo-header {
+    background-color: #09367b;
+}
+
+.img-logo {
+    margin-left: 150px;
+    margin-top: 30px;
+    width: 140px;
+    height: 60px;
+    margin-bottom: 15px;
+}
+
+a {
+    color: rgb(160, 157, 157);
+    text-decoration: none;
+    padding-left: 20px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #7bb6b2;
+}
+
+a.active {
+    color: #7bb6b2;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    line-height: 2.5;
+}
+
+.navbar {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.search-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.search-p {
+    color: rgb(132, 130, 130);
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.btn-container {
+    background-color: #09367b;
+    color: white;
+    padding: 2px;
+    border-radius: 5px;
+    margin-top: 40px;
+    width: 80px;
+}
+
+.btn-container:hover {
+    color: #7bb6b2;
+    background-color: #3e70bb;
+}
+
+#searchInput {
+    border: none;
+    padding: 4px;
+    width: 750px;
+    height: 45px;
+    box-shadow: 0 8px 12px rgba(36, 101, 199, 0.3);
+    margin-top: 45px;
+}
+
+#searchInput:hover {
+    background-color: #88abdf;
+    color: white;
+}
+
+.main {
+    height: 59vh;
+    display: block;
+    flex-direction: column;
+}
+
+footer{
+    background-color: #002868;
+    text-align: center;
+    color: #7bb6b2;
+    padding-bottom: 15px;
+    height: 200px;
+}
+
+.footer img {
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    filter: brightness(0) saturate(100%) invert(72%) sepia(45%) saturate(245%) hue-rotate(127deg) brightness(88%) contrast(86%);
+    margin-bottom: 20px;
+}
+
+.footer p {
+    margin-bottom: 30px;
+}

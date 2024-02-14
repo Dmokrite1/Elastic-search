@@ -1,0 +1,13 @@
+{
+  "name": "abex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:backend": "pnpm run -C ./backend start:dev",
+    "start:frontend": "pnpm run -C ./frontend dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

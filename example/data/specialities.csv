@@ -1,0 +1,190 @@
+code;label;label_neerlandais
+1;Economie , Finance , Fiscalité;Economie , Financiën , Fiscaliteit
+2;Patrimoine immobilier;Onroerend goed
+3;Bâtiment – Construction;Gebouw
+4;Travaux publics (Bâtiments exclus);Openbare werken (exclusief Gebouw)
+5;Industrie et sciences appliquées;Industrie en toegepaste wetenschappen
+6;Matériaux;Materialen
+7;Transport;Vervoer
+8;Communication;Communicatie
+9;Antiquité, Bijouterie et Objets d’art;Antiek, Juwelen en Kuns
+10;Sciences médicales et para-médicales;Medische en Paramedische wetenschappen
+11;Agriculture et sciences naturelles;Landbouw en natuurkunde
+12;Environnement;Milieu
+13;Criminologie;Criminologie
+14;Formation – Education;Opleiding en Onderwijs
+15;Récréation;Recreatie
+16;Accidentologie;Accidentologie
+1.1;Comptabilité;Boekhouding
+1.2;Audit comptable et financier;Boekhouding en financiële controle
+1.3;Evaluation financière d’entreprises et de fonds de commerce;Waardering van de ondernemingen, handelsfonds
+1.4;Administration provisoire de biens;Voorlopig beheer van onroerende goederen
+1.5;Fraude financière;Financiële fraude
+1.6;Liquidation de patrimoine et d’entreprises;Vereffeningen van vermogens
+1.7;Fiscalité;Fiscaliteit
+1.8;Evaluation des actifs immobilisés;Schatting van vaste activa
+1.9;Révisorat d’entreprises;Bedrijfsrevisie als erkend revisor (BIV)
+1.10;Législation du travail;Arbeidswetgeving
+1.11;Actuariat;Actuariaat
+1.12;Création et gestion d’entreprises;Oprichting en beheer van ondernemingen
+1.13;Opérations bancaires et financières;Bankverrichtingen en financiële transacties
+1.14;Associations;Associaties
+1.15;Evaluation de risques;Risicoanalyse
+1.16;Evaluation de biens à assurer;Schatting van te verzekeren goederen
+2.1;Identification de propriété - délimitation - bornage - mitoyenneté;Eigendomsbepaling – grensscheiding – afpaling – muurgemeenschap
+2.2;Expropriations;Onteigeningen
+2.3;Limites de propriété et servitudes;Erfdienstbaarheden – rooilijnen
+2.4;Etats des lieux;Staat van bevinding
+2.5;Evaluations immobilières;Schatting van onroerende goederen
+2.6;Dégâts immobiliers;Schade aan onroerende goederen
+2.7;Gestion des immeubles et copropriétés;Beheer van onroerend goed en appartementencomplexen
+2.8;Evaluations préliminaires;Voorafgaandelijke schatting
+2.9;Usufruit - bail - nue propriété - droit de superficie;Vruchtgebruik – pacht – naakte eigendom - opstal
+2.10;Revenu cadastral;Kadastraal inkomen
+3.1;Gestion de contrats et/ou de projet;Contracten en projectmanagement
+3.2;Architecture (nouvelle - rénovation – restauration);Architectuur (nieuw en vernieuwbouw – restauratie)
+3.3;Architecture d’intérieur;Binnenhuisarchitectuur
+3.4;Architecture de jardin;Tuinarchitectuur
+3.5;Stabilité des constructions;Stabiliteit
+3.6;Etanchéité;Waterdichtheid
+3.7;Isolation thermique et humidité;Thermische isolatie – vochtproblemen
+3.8;Isolation sonore – acoustique;Geluidsisolatie – akoestiek
+3.9;Sécurité incendie;Brandveiligheid
+3.10;Protection anti-foudre et anti-électricité statique;Bescherming tegen bliksem en elektrostatische elektriciteit
+3.11;Fondations ordinaires et spéciales – mécanique des sols;Gewone en speciale funderingen – grondmechanica
+3.12;Construction en béton;Betonconstructie
+3.13;Constructions en acier;Staalconstructie
+3.14;Constructions en bois;Houtconstructie
+3.15;Maçonneries;Metselwerk
+3.16;Travaux de toiture;Dakwerken
+3.17;Menuiseries (intérieures et extérieures) - vitrage;Schrijnwerkerij (binnen en buiten) – glaswerken
+3.18;Revêtement de sol, plafond, mur;Vloer, wand en plafondbekleding
+3.19;Electricité – éclairage - domotique;Elektriciteit – verlichting – domotica
+3.20;Téléphonie, interphone, radiophonie;Telefonie, interfonie, radiofonie
+3.21;Chauffage, ventilation , réfrigération, conditionnement d’air;Verwarming, verluchting, koeling, luchtconditionering
+3.22;Cheminées – feux ouverts - Poëlerie;Schoorstenen en open haarden - Houtkachels
+3.23;Installations sanitaires – canalisations;Sanitaire installaties – piping
+3.24;Installations de cuisine;Keukeninstallaties
+3.25;Ascenseurs – monte-charges;Liften – goederenliften
+3.26;Peinture;Schilderwerken
+3.27;Appareils de surveillance et de sécurité;Veiligheid en bewakingstoestellen
+3.28;Coordination de sécurité - santé;Veiligheid en gezondheidscoördinatie
+3.29;P.E.B. Performances énergétiques des bâtiments;E.P.C. Energieprestatiecertificaten voor gebouwen
+3.30;Énergies renouvelables;Duurzame energiebronnen
+3.31;Piscines;Zwembaden
+4.1;Gestion de contrats et/ou de projets;Contracten en projectmanagement
+4.2;Mécanique des sols;Grondmechanica
+4.3;Architecture;Architectuur
+4.4;Electromécanique;Electromechanica
+4.5;Hydraulique, conduites et citernes;Hydraulica, leidingen en opslagtanks
+4.6;Routes et autoroutes (construction et entretien – infrastructures et équipements);Wegen en snelwegen (bouw en onderhoud – infrastructuur en uitrustingen)
+4.7;Chemins de fer (construction et entretien – infrastructures et équipements);Spoorwegen (bouw en onderhoud – infrastructuur en uitrustingen)
+4.8;Ouvrages hydrauliques (construction et entretien – infrastructures et équipements);Waterbouwkunde (bouw en onderhoud – infrastructuur en uitrustingen)
+4.9;Aéroports et aérodromes (construction et entretien - infrastructures et entretien);Luchthavens en vliegvelden (bouw en onderhoud – infrastructuur en uitrustingen)
+4.10;Ports maritimes et écluses (constructions et entretien – infrastructures et équipements);Havens en sluizen (bouw en onderhoud – infrastructuur en uitrustingen)
+4.11;Mines et carrières;Mijnen en steengroeven
+4.12;Epuration et traitement des eaux;Waterzuivering en behandeling
+4.13;Terrains de sport et équipements – hippodromes;Sportterreinen en uitrustingen – renbanen
+4.14;Génie rural;Landelijke bouwkunde
+4.15;Coordination de sécurité – santé;Veiligheid- en gezondheidscoördinatie
+5.1;Energie (production – distribution);Energie (productie – verdeling)
+5.2;Electricité;Elektriciteit
+5.3;Mécanique;Mechanica
+5.4;Electronique;Elektronica
+5.5;Sciences nucléaires;Kernwetenschappen
+5.6;Informatique;Informatica
+5.7;Industrie electro-mécanique;Electro- en metaaltoepassingen
+5.8;Industrie alimentaire – biochimie;Voedingsindustrie – Biochemie
+5.9;Chimie – procédés industriels;Scheikunde – industriële procédés
+5.10;Pétrochimie et dérivés;Petrochemie en aanverwante
+5.11;Matières premières pour industrie;Grondstoffen
+5.12;Installations industrielles;Industriële installaties
+5.13;Sécurité et hygiène de l’entreprise;Bedrijfsveiligheid en hygiëne
+5.14;Brevets – Contrefaçon - Licences;Patenten – Octrooien – Namaak
+5.15;Travaux de soudure;Laswerk
+5.16;Emballages et conditionnements;Verpakkingsindustrie
+6.1;Acier;Staal
+6.2;Métaux non ferreux;Non-ferro metalen
+6.3;Bois;Hout
+6.4;Matières synthétiques;Kunststoffen en synthetische producten
+6.5;Peintures;Verven
+6.6;Tissus;Stoffen
+6.7;Peaux – cuir;Huiden – Leder
+6.8;Fourrures et laines;Bont en wol
+6.9;Pierres et marbres;Marmer en natuursteen
+7.1;Transport routier;Wegvervoer
+7.2;Transport ferroviaire;Spoorvervoer
+7.3;Navigation maritime et côtière;Zee en kustvaart
+7.4;Navigation fluviale – bateaux de plaisance;Binnenvaart – pleziervaart
+7.5;Transport aérien;Luchtvaart
+7.6;Engins de levage et de manutention;Hijswerktuigen en behandelingsmachines
+7.7;Evaluation de dommage (véhicules – chargement);Schadebepaling (voertuigen – lading)
+7.8;Expertise en automobile par agent agréé;Erkend auto-expert (BVVO)
+8.1;Imprimerie;Drukwerk
+8.2;Techniques audio-visuelles;Audio- en visuele technieken
+8.3;Télécommunication;Telecommunicatie
+8.4;Traducteurs – Interprètes;Vertalers – Tolken
+8.5;Graphologie – Falsification d’écritures;Grafologie – Schriftvervalsing
+8.6;Techniques de l’information et de la communication;Informatie en communicatietechniek
+9.1;Ameublement – décoration;Binnenhuisinrichting
+9.2;Antiquités – objets d’art;Antiek en kunstvoorwerpen
+9.3;Objets de collection;Verzamelingsvoorwerpen
+9.4;Tapis et tapisserie;Tapijten en behang
+9.5;Tapis et tapisserie;Meubelen – meubelmakerij
+9.6;Joaillerie – bijoux anciens;Juwelen – oude juwelen
+9.7;Orfèvrerie – Argenterie;Goudsmederij – Zilverwerk
+9.8;Diamants – pierres précieuses;Diamant – edelstenen
+9.9;Perles et perles de culture;Natuur en cultuurparels
+9.10;Horlogerie – mécanique de précision;Horloges en fijn mechaniek
+9.11;Grande horlogerie;Grote horlogerie
+9.12;Numismatique;Munt en penningkunde
+9.13;Philatélie;Postzegelkunde
+9.14;Livres;Boeken
+9.15;Voitures de collection;Collectievoertuigen
+9.16;Musique;Muziek
+9.17;Photographie – Cinématographie;Fotografie – cinematografie
+9.18;Tableaux, estampes et dessins;Schilderijen, gravures en tekeningen
+9.19;Œnologie;Wijnkunde
+9.20;Sculptures et bronzes;Beeldhouwwerken
+9.21;Jouets et maquettes;Speelgoed en schaalmodellen
+9.22;Céramiques, faïences, procelaines, terres vernissées;Keramiek en porseleinwerk
+10.1;Médecine générale;Geneeskunde – algemeen
+10.2;Médecine spécialisée;Geneeskunde – specialisten
+10.3;Médecine sportive;Sportgeneeskunde
+10.4;Médecine parallèle (homéopathie, acupuncture);Alternatieve geneeskunde (homeopathie, acupunctuur)
+10.5;Médecine vétérinaire;Diergeneeskunde
+10.6;Dentisterie;Tandheelkunde
+10.7;Biologie médicale;Medische biologie
+10.8;Sciences paramédicales et techniques;Paramedische en technische wetenschappen
+10.9;Pharmacie – Biochimie;Apotheek – Biochemie
+10.10;Toxicologie;Toxologie
+10.11;Expertise médico-légale;Medico-legale expertise
+10.12;Evaluation invalidité corporelle;Evaluatie menselijke schade
+11.1;Agriculture et connexes;Landbouw en aanverwanten
+11.2;Eaux et forêts (sylviculture, pisciculture, chasse, pêche);Waters en bossen (bosbouw, visteelt, jacht, visvangst)
+11.3;Horticulture;Tuinbouw
+11.4;Qualité du sol (Fertilisants, amendement de sol, pédologie);Bodemkwaliteit (meststoffen, grondverbetering, bodemkunde)
+11.5;Aliments pour bétail, élevage et connexes;Veevoeder, veeteelt en aanverwanten
+11.6;Géologie (geomorphologie, minéralogie, tectonique);Geologie (geomorfologie, mineralogie, tektoniek)
+11.7;Hydrologie;Hydrologie
+11.8;Biologie (zoologie, botanique, phytopathologie);Biologie (dierkunde, plantkunde, plantenziekten)
+11.9;Produits alimentaires;Voedings en grondstofmiddelen
+12.1;Urbanisme (autorisation de bâtiment et études d’incidence);Stedebouw (vergunningen en milieueffectenstudie)
+12.2;Environnement – pollution – assainissement;Milieu – verontreiniging – bezoedeling – sanering
+12.3;Amélioration du sol – aménagement;Grondverbetering – inrichting
+12.4;Expertise en écologie par agent agréé;Erkend milieudeskundige (VLAREM, ...)
+12.5;Gestion des déchets;Afvalbeheer
+13.1;Armes et munition;Wapenkunde
+13.2;Balistique;Ballistiek
+13.3;Cybercriminalité;Computercriminaliteit
+14.1;Matières d’enseignement;Leerstof
+14.2;Langues;Talen
+15.1;Activités sportives;Sportactiviteiten
+15.2;Parcs d’attractions;Pretparken
+16.1;Accidents ferroviaires;Spoorwegongevallen
+16.2;Accidents de route;Verkeersongevallen
+16.3;Accidents d’aviation;Luchtvaartongevallen
+16.4;Accidents maritimes et fluviaux;Scheepvaartongevallen
+16.5;Explosions;Ontploffingen
+16.6;Incendies;Brandonderzoek
+16.7;Bris de machine;Machinebreuk

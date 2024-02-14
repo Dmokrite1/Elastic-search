@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../style/style.css">
+  <title>Recherche de membres</title>
+</head>
+<body>
+  <header>
+    <div class="button-header">
+        <button class="language-btn active" onclick="changeLanguage('fr')">FR</button>
+        <button class="language-btn" onclick="changeLanguage('nl')">NL</button>
+    </div>
+    <div class="logo-header">
+      <img src="../assets/abex-logo-fr-1.png" class="img-logo" alt="logo">
+    </div>
+   </header>
+   
+    <nav class="navbar">
+      <a href="search" class="active">Rechercher</a>
+      <a href="specialities">Liste des spécialités</a>
+      <a href="activities">Liste des activités</a>
+    </nav>
+    <div class="main">
+    <p class="search-p">Rechercher un expert</p>
+  <div class="search-container">
+    <input type="text" id="searchInput" placeholder="Rechercher un membre...">
+    <button onclick="" class="btn-container">Rechercher</button>
+  </div>
+  <div id="loader" class="loader" style="display: none;"></div>
+  <ul id="results" class="results"></ul>
+  </div>
+  <footer>
+    <div class="footer">
+      <img src="../assets/ABEX-old-logo-white-footer.png" alt="logo-footer">
+      <p>ABEX - Association Belge des Experts 2024 © Tous droits réservés</p>
+    </div>
+  </footer>
+</body>
+</html>
